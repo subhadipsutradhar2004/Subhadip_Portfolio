@@ -98,7 +98,7 @@ export const SkillsInfo = [
       img: Ramsagar,
       school: "Ramsagar High School, Bankura, West Bengal",
       date: "Apr 2020 - March 2022",
-      grade: "          95%",
+      grade: "-------------95%",
       desc: "I completed my class 12 education from Ramsagar High School, Bankura, West Bengal, under the WBCHSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Biology.",
       degree: "WBCHSE(XII) - PCMB",
     },
