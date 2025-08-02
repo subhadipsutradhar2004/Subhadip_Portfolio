@@ -106,7 +106,7 @@ export const SkillsInfo = [
       id: 2,
       img: Teliberia,
       school: "Teliberia SM High School, Bankura, West Bengal",
-      date: "Apr 2019 - March 2020",
+      date: "January 2019 - March 2020",
       grade: "90%",
       desc: "I completed my class 10 education from Teliberia SM High School, Bankura, West Bengal, under the WBBSE board.",
       degree: "WBBSE(X)",
