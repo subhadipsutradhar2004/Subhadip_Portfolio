@@ -121,8 +121,8 @@ export const SkillsInfo = [
         "Kabir is a smart, voice-enabled virtual assistant built for the browser. It responds to user commands using speech recognition and text-to-speech, offering features like answering questions, performing tasks, and engaging in simple conversation. With a clean interface and real-time voice interaction, it provides an intuitive and interactive user experience.",
       image: kabir,
       tags: ["HTML", "CSS", "JavaScript", "Speech Recognition", "Text-to-Speech"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      github: "https://github.com/subhadipsutradhar2004/Kabir-The-Virtual-Assistant.git",
+      webapp: "https://kabir-virtual-assistant.netlify.app/",
     },
     {
       id: 1,
