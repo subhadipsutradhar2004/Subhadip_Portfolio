@@ -40,7 +40,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            Aspiring Frontend Developer.Passionate about building responsive web applications,tocreate innovative and seamless user experiences.Additionally, I possess a robust understanding of Data Structures and Algorithms using C and C++.
+            Aspiring Frontend Developer.Passionate about building responsive web applications,to create innovative & seamless user experiences. Additionally, I possess a robust understanding of Data Structures and Algorithms using C and C++.
           </p>
           {/* Resume Button */}
           <a
